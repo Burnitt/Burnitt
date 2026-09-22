@@ -6,11 +6,11 @@ getting intelligence onto hardware, such as: real sensors, real constraints,
 real environments.
 
 ## 🔧 What I'm Working On
-- **Surface Defect Detection System** — real-time pavement crack 
+- **Surface Defect Detection System**: real-time pavement crack 
   detection on a Raspberry Pi 5 using YOLOv8-nano + OpenCV
-- **Autonomous Robot Simulation** — differential drive robot in 
+- **Autonomous Robot Simulation**: differential drive robot in 
   NVIDIA Isaac Sim with ROS 2 navigation
-- **Autonomous Inspection Pipeline** — integrating the CV model 
+- **Autonomous Inspection Pipeline**: integrating the CV model 
   as a ROS 2 perception node into the robot stack
 
 ## 🛠️ Skills
