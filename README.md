@@ -21,11 +21,11 @@ PyTorch (learning), Git, REST APIs
 **Other:** CAD, AWS
 
 ## 📌 Featured Projects
-- 🚗 Autonomous Driveway Gate — sensor-triggered gate automation 
+- 🚗 Autonomous Driveway Gate: sensor-triggered gate automation 
   with motor control logic
-- 🤖 Bumper-Guided Maze Navigator — obstacle-avoidance robot 
+- 🤖 Bumper-Guided Maze Navigator: obstacle-avoidance robot 
   using bump sensors
-- 🦾 Robotic End Effector — CAD-designed gripper mechanism
-
+- 🦾 Robotic End Effector: CAD-designed gripper mechanism
+  
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/gurnit-chopra-295639273/) • [Portfolio](https://bush-aurora-6f7.notion.site/Gurnit-Chopra-2da3afb3d1d5811a98fceb3b4eadf8c7?source=copy_link)
+[LinkedIn](https://www.linkedin.com/in/gurnit-chopra-295639273/) • [Website](https://burnitt.github.io/)
